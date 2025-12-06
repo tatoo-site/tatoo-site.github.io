@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+:HL["/bird.png","image"]
+0:{"buildId":"hL9_tpw5YdpOaq-dEMrPe","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"relative min-h-screen flex flex-col","children":["$","div",null,{"className":"flex-1 flex items-center justify-center","children":["$","div",null,{"className":"flex items-center flex-col gap-8 lg:flex-row justify-center w-full px-12","children":[["$","div",null,{"className":"text-2xl md:text-4xl tracking-[.4em] mr-0 lg:mr-16  color-tarvo","children":"BASEL"}],["$","div",null,{"className":"relative w-32 h-32 md:w-48 md:h-48","children":["$","div",null,{"className":"absolute inset-0 flex items-center justify-center","children":["$","img",null,{"src":"/bird.png","alt":"Tattoo Artist Logo","width":200,"height":200,"className":"w-full h-full"}]}]}],["$","div",null,{"className":"text-2xl md:text-4xl tracking-[.4em] ml-0 lg:ml-16 color-tarvo","children":"TALLINN"}]]}]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null

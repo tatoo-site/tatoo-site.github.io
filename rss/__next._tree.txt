@@ -1,3 +1,0 @@
-:HL["/tatoo-site.github.io/_next/static/chunks/6561de0fdb9e1203.css","style"]
-:HL["/tatoo-site.github.io/_next/static/media/Equivalent_Light_SVG-s.p.32865499.otf","font",{"crossOrigin":"","type":"font/otf"}]
-0:{"buildId":"06bZo_TJn_cHgbhjD9Qne","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"rss","paramType":null,"paramKey":"rss","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

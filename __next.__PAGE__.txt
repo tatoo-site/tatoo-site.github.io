@@ -1,6 +1,9 @@
 1:"$Sreact.fragment"
-2:I[5500,["/tatoo-site.github.io/_next/static/chunks/68459958cfbe8c74.js"],"Image"]
-3:I[97367,["/tatoo-site.github.io/_next/static/chunks/ff1a16fafef87110.js","/tatoo-site.github.io/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"06bZo_TJn_cHgbhjD9Qne","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"relative min-h-screen flex flex-col","children":["$","div",null,{"className":"flex-1 flex items-center justify-center","children":["$","div",null,{"className":"flex items-center justify-center w-full","children":[["$","div",null,{"className":"text-2xl md:text-4xl tracking-[.4em] mr-8 md:mr-16 color-tarvo","children":"BASEL"}],["$","div",null,{"className":"relative w-32 h-32 md:w-48 md:h-48","children":["$","div",null,{"className":"absolute inset-0 flex items-center justify-center","children":["$","$L2",null,{"src":"/bird.png","alt":"Tattoo Artist Logo","width":200,"height":200,"className":"w-full h-full","priority":true}]}]}],["$","div",null,{"className":"text-2xl md:text-4xl tracking-[.4em] ml-8 md:ml-16 color-tarvo","children":"TALLINN"}]]}]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
+2:I[47257,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ClientPageRoot"]
+3:I[31713,["/_next/static/chunks/910f10b69b952514.js"],"default"]
+6:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"hL9_tpw5YdpOaq-dEMrPe","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/910f10b69b952514.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
